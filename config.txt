@@ -1,0 +1,4 @@
+/Users/Yasya/Desktop/Results/The_H_G.txt
+/Users/Yasya/Desktop/Results/res_a.txt
+/Users/Yasya/Desktop/Results/res_n.txt
+4
